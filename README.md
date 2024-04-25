@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Hello%20Everyone!&textBg=false&fontAlign=50&rotate=0&descAlignY=50&fontColor=FADA5E&animation=scaleIn)
 
 <!-- SOCIAL ACCOUNTS -->
-<h1 align="center"> &nbsp; Let's Connect (づ ◕‿◕ )づ and have a Chat! 💬 </h1>
+<h1 align="center"> &nbsp; (づ ◕‿◕ )づ Let's Connect and Chat! 💬 </h1>
 
 <p align="center">
   &nbsp;&nbsp; 
@@ -62,6 +62,7 @@ goals_in_2024: Create 3 personal projects
 
 ---
 <h2>👨🏻‍💻 &nbsp; Some tools I have used and learned </h2>
+
 <p id="tools" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
@@ -75,7 +76,8 @@ goals_in_2024: Create 3 personal projects
 
 ---
 <h2>👨🏻‍💻 &nbsp; Acknowledgements and Resources </h2>
-Big shoutout to ( ^◡^) [Piyush Malhotra](https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783) for his epic tutorial on spicing up GitHub READMEs! Here are all the resources that I learned and used for my profile:
+
+Big shoutout to ( ^◡^)~ [Piyush Malhotra](https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783) for his epic tutorial on spicing up GitHub READMEs! Here are all the resources that I learned and used for my profile:
 - [X] [Markdown Tutorial by Felipe Fong](https://github.com/fefong/markdown_readme)
 - [X] [Capsule Render by Ye-Chan Kang](https://github.com/kyechan99/capsule-render)
 - [X] [Icon Finder](https://www.iconfinder.com/)
