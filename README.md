@@ -45,19 +45,19 @@ Here are some ideas to get you started:
 <h2>👨🏻‍💻 &nbsp; Facts about me </h2>
 
 ```yaml
-name: Anh Le
-address: Maryland, USA
-job: College Student
-school: University of Maryland, College Park
+name: "Anh Le",
+address: "Maryland, USA",
+job: "College Student",
+school: "University of Maryland, College Park",
 fields_of_interests:
   [
     "Software Engineering",
     "Cybersecurity",
     "Data Science",
     "DevOps",
-  ]
-hobbies: ["Desserts", "Coffee", "Music"]
-goals_in_2024: Create 3 personal projects
+  ],
+hobbies: ["Desserts", "Coffee", "Music"],
+goals_in_2024: "Create 3 personal projects"
 ```
 
 ---
