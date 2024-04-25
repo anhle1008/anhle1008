@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- This is a markdown syntax -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&section=header&height=200&text=Hello%20Everyone!&desc=Hello%20capsule%20render&animation=fadeIn&fontSize=80)
+
 
 <!--
 **anhle1008/anhle1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
