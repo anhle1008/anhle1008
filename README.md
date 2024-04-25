@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 <!-- HEADER -->
 <!-- This is a markdown syntax of capsule render's query parameter-->
-<p align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Hello%20Everyone!&textBg=false&fontAlign=50&rotate=0&descAlignY=50&fontColor=FADA5E&animation=scaleIn)
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Hello%20Everyone!&textBg=false&fontAlign=50&rotate=0&descAlignY=50&fontColor=FADA5E&animation=scaleIn)
 <!-- SOCIAL ACCOUNTS -->
 <h1 align="center"> &nbsp; (づ ◕‿◕ )づ Let's Connect and Chat! 💬 </h1>
 
@@ -109,6 +107,4 @@ Big shoutout to ( ^◡^)~ [Piyush Malhotra](https://bootcamp.uxdesign.cc/how-to-
 
 <!-- FOOTER -->
 <!-- This is a markdown syntax of capsule render's query parameter-->
-<p align="center">
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)
-</p>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient)
