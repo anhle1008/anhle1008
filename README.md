@@ -40,9 +40,10 @@ Here are some ideas to get you started:
   &nbsp;&nbsp; 
 </p>
 
----  
+---
 <!-- ABOUT ME -->
 <h2>👨🏻‍💻 &nbsp; Facts about me </h2>
+
 ```yaml
 name: Anh Le
 address: Maryland, USA
@@ -58,8 +59,8 @@ fields_of_interests:
 hobbies: ["Desserts", "Coffee", "Music"]
 goals_in_2024: Create 3 personal projects
 ```
----  
 
+---
 <h2>👨🏻‍💻 &nbsp; Some tools I have used and learned </h2>
 <p id="tools" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -72,8 +73,8 @@ goals_in_2024: Create 3 personal projects
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-
-# Acknowledgements and Resources
+---
+<h2>👨🏻‍💻 &nbsp; Acknowledgements and Resources </h2>
 Big shoutout to ( ^◡^) [Piyush Malhotra](https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783) for his epic tutorial on spicing up GitHub READMEs! Here are all the resources that I learned and used for my profile:
 - [X] [Markdown Tutorial by Felipe Fong](https://github.com/fefong/markdown_readme)
 - [X] [Capsule Render by Ye-Chan Kang](https://github.com/kyechan99/capsule-render)
