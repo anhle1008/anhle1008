@@ -52,13 +52,10 @@ job: "College Student",
 school: "University of Maryland, College Park",
 fields_of_interests:
   [
-    "Software Engineering",
     "Cybersecurity",
-    "Data Science",
-    "DevOps",
+    "IT",
   ],
-hobbies: ["Desserts", "Coffee", "Music"],
-goals_in_2024: "Create 3 personal projects"
+hobbies: ["Desserts", "Coffee", "Music", "Cats", "Anime/Manga"],
 ```
 
 ---
