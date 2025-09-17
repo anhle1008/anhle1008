@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   <a id="linkedin" href="https://www.linkedin.com/in/anhle2002/"> 
     <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-1024.png" alt="LinkedIn Icon" />
   </a>
+  <!-- 
   &nbsp;&nbsp; 
   <a id="facebook" href="https://www.facebook.com/a.k.l.2021">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Facebook.png" alt="Facebook icon" />
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
     <img height="50" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-1024.png" alt="Instagram Icon" />
   </a>
   &nbsp;&nbsp; 
+  -->
 </p>
 
 ---
